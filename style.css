@@ -45,11 +45,11 @@ body {
 }
 .numbers span:nth-child(3) {
   right: 10px;
-  top: 162px;
+  top: 132px;
 }
 .numbers span:nth-child(11) {
   left: 10px;
-  top: 162px;
+  top: 132px;
 }
 .numbers span:nth-child(4) {
   right: 10px;
@@ -61,11 +61,11 @@ body {
 }
 .numbers span:nth-child(5) {
   right: 10px;
-  bottom: 162px;
+  bottom: 132px;
 }
 .numbers span:nth-child(9) {
   left: 10px;
-  bottom: 162px;
+  bottom: 132px;
 }
 .numbers span:nth-child(8) {
   bottom: 10px;
